@@ -1,0 +1,18 @@
+Aluno: Bruno Ouriques Meifert
+5. Explique em **poquíssimas** palavras o que é cada um dos itens abaixo:<br/>
+	1- Planning: É uma cerimônia simples dentro do processo ágil Scrum, que possibilita perceber a realidade e avaliar caminhos.
+	2- Sprint: É uma reunião de pessoas envolvidas em um projeto para promover um desenvolvimento.
+	3- Retro: É relembrar ou rever eventos que passaram, em forma de uma análise.
+
+	Agora, crie um arquivo chamado: Bot-Agil. Dentro do arquivo, crie uma função chamada 'pergunta'. Que vai receber um número como parâmetro, de acordo com o número retorne a explicativa do que é cada um dos itens acima. Ex:
+
+	Olá! Selecione uma opção abaixo, que deseja saber informações do que significa na metodologia ágil:
+
+	1 - Planning<br/>
+	2 - Sprint<br/>
+	3 - Retro<br/>
+	X - Encerrar
+
+	Se o usuário selecionar 1, deve responder com o conteúdo descrito por você do que significa planning. E assim, sucessivamente.
+
+	Ps: Este arquivo pode ser hard coded, não a necessidade de ter input direto do usuário no arquivo.

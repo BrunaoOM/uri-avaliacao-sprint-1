@@ -1,0 +1,8 @@
+Aluno: Bruno Ouriques Meifert
+
+4. Descreve em poucas palavras os principais métodos HTTP: 
+	GET: Requisita uma representação de recurso especifico.
+	POST: Envia dados para serem processados para o recurso especificado.
+	PATH: Atualiza partes de um recurso.
+	PUT: Envia dados parecido com o POST a diferença é que ele sobrescreve os dados ficando só um registro.
+	DELETE: Exclui o recurso

@@ -1,0 +1,6 @@
+Aluno: Bruno Ouriques Meifert
+
+3. Qual definição de função abaixo é **inválida?**<br/>
+	[ ] - function minhaFuncao () {}<br/>
+	[x] - const funcao = () => {}<br/>
+	[ ] - function funcao = () => {}<br/>

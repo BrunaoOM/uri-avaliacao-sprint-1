@@ -1,0 +1,16 @@
+Aluno: Bruno Ouriques Meifert
+
+1. O valor de uma constante pode ser mudado após a sua declaração? E explique a finalidade de se usar uma constante. Cite também as diferenças entre var e let.
+R: 
+
+Const: const é uma variavel que não pode ser alterado seu valor depois de sua declaração, por exemplo: se declararmos:
+const x = 25;
+O valor declarado de 25 para a variavel const "x" não podera ser alterado.
+A única forma de alteração é se for declarada da seguinte maneira.
+const x;
+Assim não passando nenhum valor a variavel "x" você podera mudala futuramente.
+
+Var: var é uma variavel que pode ser alterada a qualquer momento idependente se você declarou inicialmente a mesma com um determinado valor ou não, porém a mesma não é 
+muito utilizada pois ocasiona alguns bugs, uma boa pratica quando se quer alterar valores de uma determinada variavel é utilizar a let. 
+
+Let: A variavel let funciona da mesma forma da var, podendo ser alterada a qualquer momento ela é mais utilizada.

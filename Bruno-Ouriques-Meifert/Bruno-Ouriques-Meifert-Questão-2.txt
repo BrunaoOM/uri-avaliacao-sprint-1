@@ -1,0 +1,6 @@
+Aluno: Bruno Ouriques Meifert
+
+2. Qual das definições de array está **incorreta?** <br/>
+	[ ] - var frutas = new Array('maça', 'uva');<br/>
+	[ ] - const frutas = ['maça', 'uva']<br/>
+	[x] - let frutas = new list('maça', 'uva');<br/>
